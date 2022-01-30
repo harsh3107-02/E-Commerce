@@ -1,0 +1,116 @@
+.home{
+    background-color: #146EB6;
+    margin: 0%;
+    height: 700px;
+}
+
+.logo{
+    width: 170px;
+}
+
+.nav-menu{
+    position: absolute;
+    right: 20px;
+    top: 7px;
+    padding-top: 3px;
+    
+}
+.home-p{
+    background-color: #D3DEDC;
+}
+a:hover{
+    color: red;
+}
+
+/* home page  */
+a{
+    padding: 1px 5px;
+    color: azure;
+}
+
+.row{
+    text-align: center;
+    padding: 80px 50px;
+    color: azure;
+}
+.home2{
+    padding-top: 110px;
+    text-align: center;
+}
+
+/* description */
+.descriptip{
+    background-color: #D3DEDC ;
+}
+
+.offer{
+    background-color: orange;
+}
+
+.offer1{
+    text-align: left;
+    padding-top: 80px;
+    line-height: 1.5rem;
+    
+}
+.customer{
+    text-align: center;
+    padding: 0% 120px;
+    background-color: #d3dedc;
+}
+.ok6{
+    color:white;
+    background-color: black;
+    padding: 0% 50px;
+}
+
+/* featured product */
+.featured{
+    text-align: center;
+    background-color: #D3DEDC;
+    color: black;
+    padding: 0px 50px;
+    margin-bottom: 0px;
+}
+.product{
+    text-align: left;
+    justify-content: center;
+    color: black;
+    padding-left: 30px;
+    padding-bottom: 28px;
+    max-width: 200px;
+}
+
+.company{
+    text-align: center;
+    background-color: #D3DEDC;
+}
+
+.contact{
+    background-color: black;
+}
+
+@media (max-width:900px) {
+    
+    .home{
+        background-color: #146EB6;
+        margin: 0%;
+        height: 1000px;
+    }
+    .home2{
+        padding-top: 0px;
+        text-align: center;
+    }px
+    .descriptip2{
+        padding: 200px 0;
+    }
+    .middle{
+        padding: 15px 5px;
+        position: relative;
+        right: 50px;
+    }
+    .exclusive{
+        position: relative;
+        right: 35px;
+    }
+}
